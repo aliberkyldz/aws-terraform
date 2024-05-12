@@ -1,1 +1,2 @@
-# aws-terraform
+# EKS-Terraform-Jenkins
+EKS-Terraform-Jenkins
